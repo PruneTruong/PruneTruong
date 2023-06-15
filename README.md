@@ -7,7 +7,7 @@ PhD student at [ETH Zurich](https://ethz.ch/en.html) in the [Computer Vision Lab
 
 **🌱  Previously**:
 * Research intern at Google, Semantic Perception Team of [Federico Tombari](https://scholar.google.com/citations?user=TFsE4BIAAAAJ&hl=en)
-* Research intern at [Microsoft], [Mixed Reality & AI Labs](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/) of [Marc Pollefeys](https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en)
+* Research intern at Microsoft, [Mixed Reality & AI Labs](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/) of [Marc Pollefeys](https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en)
 
 
 🤔 Most of my current work focuses on correspondence estimation, 3D reconstruction, pose estimation and novel-view rendering.
@@ -16,4 +16,4 @@ PhD student at [ETH Zurich](https://ethz.ch/en.html) in the [Computer Vision Lab
 
 <!-- Actual text -->
 
-You can find me on [Twitter](https://twitter.com/prunetruong) or [LinkedIn]([https://www.linkedin.com/in/songyou-peng-53717648/](https://www.linkedin.com/in/prune-truong-00922a12b/)) - for my research and latest updates, check out my [Google Scholar]([https://scholar.google.ch/citations?user=eNypkO0AAAAJ](https://scholar.google.com/citations?user=v8VCED0AAAAJ&hl=fr)) and [Homepage]([https://prunetruong.com/])!
+You can find me on [Twitter](https://twitter.com/prunetruong) or [LinkedIn](https://www.linkedin.com/in/songyou-peng-53717648/(https://www.linkedin.com/in/prune-truong-00922a12b/)) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=v8VCED0AAAAJ&hl=fr) and [Homepage](https://prunetruong.com/)!
